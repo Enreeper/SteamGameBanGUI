@@ -1,0 +1,13 @@
+[ How to use this Programm ]
+
+1. Start it, duh...
+2. Paste in youre API KEY
+3. Paste in youre APPID
+4. Paste in youre SteamID
+5. Apply an Report for that Profile
+6. Apply an Game Ban for that Profile.
+
+For reasons of faster workflow you can save youre API-Key and AppID
+inside the "metadata.ini" file which is located in the datafiles.
+
+also, dont share youre API KEY with anyone !!!
