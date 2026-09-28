@@ -9,3 +9,13 @@ SGB_TOOL.zip
 
 // Source code project file for Gamemaker Studio 2.
 source_code.zip
+
+Q&A
+
+- [Q1] Where do I get my API key from ?
+- [A1] Visit your Steamworks page ( https://partner.steamgames.com//pub/groups/ ),
+from there click on your Group, on the right list there should be the Category "Web API Key".
+
+-------------------------------------------------------
+IMPORTANT, DO NOT SHARE YOUR WEB API KEY WITH ANYONE!!!
+-------------------------------------------------------
